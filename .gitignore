@@ -1,3 +1,5 @@
 .idea
 venv/
-node_module/
+node_modules/
+database-data
+database-data_empty
